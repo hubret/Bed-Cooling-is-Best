@@ -2,7 +2,7 @@ I've literally never done any investigation into water cooling systems before th
 
 I know how radiators and heat transfer work, but all of the plumbing lingo about parts, sizes, and connectors was Greek to me.
 
-Based on the [data from Brennan's build](../brennan/Prototype MK1), I knew for me that installing fans was overkill, and a 420mm radiator was overkill. I probably only needed a double radiator running passively.
+Based on the [data from Brennan's build](../brennan/Prototype%20MK1), I knew for me that installing fans was overkill, and a 420mm radiator was overkill. I probably only needed a double radiator running passively.
 Having no fans, I have no need for a fan controller, which is good because I know nothing about them. In a [demo video](https://youtu.be/EfuD8lSTTqg), Brennan showed the a vario pump that has a sort of potentiometer dial to control the speed. Using that would mean I don't need a pump controller either.
 
 Even though I basically decided what pump I was going to use, I looked at the comparison between DDC and D5 pumps and this is what I gathered:
