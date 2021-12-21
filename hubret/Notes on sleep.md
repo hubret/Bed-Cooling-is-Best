@@ -21,3 +21,7 @@ I woke up with the bed feeling like I had laid down for no longer than 2 minutes
 It's also not uncomfortable for me. I barely feel the tubes.
 
 Also, the radiator is standing on its end, meaning that any air conducting heat doesn't suck more cooler air through. There's no net movement of air through the radiator. I would bet it would get colder (idk by how much or if it is worth it) if it was mounted horizontally to allow air to escape on the top side and cool air to enter from the bottom. Or use fans
+
+## Review after a weekish
+
+Sometimes if I refuse to get out of bed and continue sleeping, my body temperature will stay increased and the system can't keep up with the amount of heat. I increased the pump speed to 4/5 and reduced the hold temperature on my thermostat to make heat transfer on the radiator more efficient. This worked very well.
