@@ -2,7 +2,7 @@ I've literally never done any investigation into water cooling systems before th
 
 I know how radiators and heat transfer work, but all of the plumbing lingo about parts, sizes, and connectors was Greek to me.
 
-Based on the [data from Brennan's build](../brennan/Prototype MK1#Thoughts), I knew for me that installing fans was overkill, and a 420mm radiator was overkill. I probably only needed a double radiator running passively.
+Based on the [data from Brennan's build](../brennan/Prototype%20MK1.md#Thoughts), I knew for me that installing fans was overkill, and a 420mm radiator was overkill. I probably only needed a double radiator running passively.
 Having no fans, I have no need for a fan controller, which is good because I know nothing about them. In a [demo video](https://youtu.be/EfuD8lSTTqg), Brennan showed the a vario pump that has a sort of potentiometer dial to control the speed. Using that would mean I don't need a pump controller either.
 
 Even though I basically decided what pump I was going to use, I looked at the comparison between DDC and D5 pumps and this is what I gathered:
@@ -32,6 +32,8 @@ The actual heat transport piece that interfaces with your body heat evaded me fo
 I had to wash it in my bathtub as it wouldn't fit in my washer.
 
 The silicone hoses of the blanket were ~6mm inner diameter (ID) which was important to note because I had to rebuy hose connectors more times than I'd like to admit. I bought an extra 6mm ID silicone tube to connect the pump to the radiator.
+
+The hoses come out the narrow side on the blanket, and is not quite long enough to cover the whole bed. I have the hoses coming out the side of the head of the bed, but the hoses can come out the foot side, because the pillows cover the untubed part of the bed. Since the head of the bed is next to the wall, the tubes need to bend to the side under the bed. They are just long enough to position the setup next to the bed, but it's real close. Double sided hose barbs to extend the hose length coming from the blanket would be a good idea if an outlet is far away.
 
 The pump doesn't come with connectors to plug your hoses to, you need to install those yourself. And the radiator I got was the same idea. They had threaded holes (called G1/4) which you can screw in some G1/4 barbs to stick into the silicone hoses. I bought 7.2mm diameter barbs to fit into the 6mm hoses. These fit just right and (so far) require no fasteners or clamps, the other sizes just don't fit at all.
 

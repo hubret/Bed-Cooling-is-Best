@@ -4,7 +4,7 @@ For background, I have eczema (and possibly a form OCD which makes me compulsive
 - The weighted blanket is quite thick and traps a lot of heat
   1. Body temperature rises in the morning before you wake up
   2. I start to sweat before I wake up, and the sweat irritates my skin
-  3. I will subconsiously scratch
+  3. I will subconsciously scratch
 - I started sleeping without a shirt, but I want to sleep with a shirt.
 - Duvets are the worst of both worlds. Light and hot. I like to imagine sleeping under a lead vest like you wear when you get an xray. Heavy and cold.
 
