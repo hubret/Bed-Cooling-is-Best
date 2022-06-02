@@ -10,7 +10,7 @@ Downside is that the power supply needs DIY wiring to be hooked up to 120v main,
 
 ## Option B
 
-Get a cheap ATX PSU with the ATX 24 pin connector + a breakout for 12v and 5v. At this point it would be identical to the arcade power supply, with the exception that you can plug it into the wall easily with a power cable. If the breakout also includes fan headers it will be even easier to wire the fans in.
+Get a cheap ATX PSU with the ATX 24 pin connector + a [breakout](https://www.amazon.ca/SUPERPLUS-Upgrade-Version-Benchtop-Breakout/dp/B07JLT314P?th=1) for 12v and 5v. At this point it would be identical to the arcade power supply, with the exception that you can plug it into the wall easily with a power cable. If the breakout also includes fan headers it will be even easier to wire the fans in.
 
 # Sensors
 
