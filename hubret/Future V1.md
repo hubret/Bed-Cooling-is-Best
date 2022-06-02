@@ -8,7 +8,7 @@ I think a IRLZ44N MOSFET to switch the pump during sleeping time, and 4 pin fans
 
 Downside is that the power supply needs DIY wiring to be hooked up to 120v main, and will just kind of have loose wiring everywhere after hooking up the pump and fans.
 
-# Option B
+## Option B
 
 Get a cheap ATX PSU with the ATX 24 pin connector + a breakout for 12v and 5v. At this point it would be identical to the arcade power supply, with the exception that you can plug it into the wall easily with a power cable. If the breakout also includes fan headers it will be even easier to wire the fans in.
 
@@ -35,4 +35,4 @@ Ideally, the computer is a raspberry pi so that it can easily/more rapidly (in t
 
 I don't think bioactivity is a huge concern, though I want to make it a lot easier to flush out all the water in the system, since over time the distilled water will have dissolved some of the metal inside the loop. The radiator and the reservoir are both aluminum, I'm pretty sure the faceplate of the pump is aluminum (the rotor of the pump is plastic), and the barbs are copper.
 
-Maybe a T joint in the intake port of the pump that can hoo k up to a bottle of water for flushing.
+Maybe a T joint in the intake port of the pump that can hook up to a bottle of water for flushing.
